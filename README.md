@@ -5,6 +5,9 @@ We support demo of example models, including the baseline model and the model in
 
 For simplicity, the demo is deployed in ipynb file.
 
+## visualization
+The recovered result of demo can be visualized in the ipynb file, there are also many point cloud processing libraries and softwares optional to visualize the results.  
+
 ## recovery
 The process of point cloud recovery during the training of model is illustrated:
 
