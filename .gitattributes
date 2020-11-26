@@ -1,3 +1,4 @@
 model filter=lfs diff=lfs merge=lfs -text
 model/city-pretrained.h5 filter=lfs diff=lfs merge=lfs -text
 model/square-pretrained.h5 filter=lfs diff=lfs merge=lfs -text
+model/square-curvature-pretrained.h5 filter=lfs diff=lfs merge=lfs -text
