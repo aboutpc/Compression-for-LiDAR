@@ -8,6 +8,9 @@ For simplicity, the demo is deployed in ipynb file.
 ## visualization
 The recovered result of demo can be visualized in the ipynb file, there are also many point cloud processing libraries and softwares optional to visualize the results.  
 
+## measurements
+We use three main measurements to evaluate the performance of our method: PSNR,SSIM,RMSE. We choose skimage library for concrete implements.
+
 ## recovery
 The process of point cloud recovery during the training of model is illustrated:
 
