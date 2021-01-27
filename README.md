@@ -22,3 +22,8 @@ This process will provide some inspirations.
 
 Note that the value of loss in the figure will be different in different training configuration.
 
+## Loss and Curvature
+
+The results of different changes to the network.
+
+![Loss and Curvature](https://github.com/aboutpc/Compression-for-LiDAR/blob/main/fig/loss_and_curvature.png)
