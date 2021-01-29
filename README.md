@@ -24,10 +24,18 @@ Note that the value of loss in the figure will be different in different trainin
 
 ## Loss and Curvature
 
-The results of different changes to the network.
+For ablation studies, we also have some results of different changes to the network.
 
 ![Loss and Curvature](https://github.com/aboutpc/Compression-for-LiDAR/blob/main/ablation_study/loss_and_curvature.png)
 
 ## Normalization
 
+We also test the results of normalization, but we do not pay much attention in this part.
+
 ![Normalization](https://github.com/aboutpc/Compression-for-LiDAR/blob/main/ablation_study/normalization.png)
+
+## Other
+
+During our experiments, we also get some unexpected results, like super resolution.
+
+![super resolution](https://github.com/aboutpc/Compression-for-LiDAR/blob/main/fig/super_resolution.png)
