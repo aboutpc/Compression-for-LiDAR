@@ -28,6 +28,8 @@ For ablation studies, we also have some results of different changes to the netw
 
 ![Loss and Curvature](https://github.com/aboutpc/Compression-for-LiDAR/blob/main/ablation_study/loss_and_curvature.png)
 
+![training_process_loss](https://github.com/aboutpc/Compression-for-LiDAR/blob/main/fig/training_process_loss.png)
+
 ## Normalization
 
 We also test the results of normalization, but we do not pay much attention in this part.
