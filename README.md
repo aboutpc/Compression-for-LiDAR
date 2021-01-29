@@ -32,7 +32,7 @@ For ablation studies, we also have some results of different changes to the netw
 
 ## Normalization
 
-We also test the results of normalization, but we do not pay much attention in this part.
+We also test the results of normalization, it's widely used in many tasks and shows great performance, so we do not pay much attention in this part.
 
 ![Normalization](https://github.com/aboutpc/Compression-for-LiDAR/blob/main/ablation_study/normalization.png)
 
