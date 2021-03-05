@@ -23,3 +23,9 @@ This process will provide some inspirations.
 Note that the value of loss in the figure will be different in different training configuration.
 
 
+
+## Other
+
+During our experiments, we also get some unexpected results, like super resolution.
+
+![super resolution](https://github.com/aboutpc/Compression-for-LiDAR/blob/main/fig/super_resolution.png)
