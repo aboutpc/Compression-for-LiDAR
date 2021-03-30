@@ -1,12 +1,7 @@
 # Compression-for-LiDAR
 
 ## demo
-We support demo of example models, including the baseline model and the model introduced with curvature (In this demo, k=4). They are pretrained in several scenarios.
-
-For simplicity, the demo is deployed in ipynb file.
-
-## visualization
-The recovered result of demo can be visualized in the ipynb file, there are also many point cloud processing libraries and softwares optional to visualize the results.  
+We support structure demo of proposed model, for ease of use, the demo is deployed in ipynb file, including training and running.
 
 ## measurements
 We use three main measurements to evaluate the performance of our method: PSNR,SSIM,RMSE. We choose skimage library for concrete implements.
@@ -21,8 +16,6 @@ The point cloud will be gradually recovered from the edge contour to the interio
 This process will provide some inspirations.
 
 Note that the value of loss in the figure will be different in different training configuration.
-
-
 
 ## Other
 
